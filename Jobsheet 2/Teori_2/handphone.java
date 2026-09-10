@@ -1,3 +1,5 @@
+package Teori_2;
+
 public class handphone {
     public String merk;
     public String tipe;
