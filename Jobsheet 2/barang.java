@@ -1,4 +1,4 @@
-public class barang {
+public class Barang {
     public String kode;
     public String nama;
     public double hargaKotor;

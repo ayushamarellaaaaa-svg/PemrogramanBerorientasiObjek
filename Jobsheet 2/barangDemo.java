@@ -1,6 +1,6 @@
-public class barangDemo {
+public class BarangDemo {
     public static void main(String[] args) {
-        barang barang1 = new barang();
+        Barang barang1 = new Barang();
         barang1.kode = "ATK01";
         barang1.nama = "Bolpoin Pilot Hitam";
         barang1.hargaKotor = 3500;

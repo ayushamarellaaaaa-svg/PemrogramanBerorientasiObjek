@@ -1,6 +1,6 @@
-public class persegiPanjangDemo {
+public class PersegiPanjangDemo {
     public static void main(String[] args) {
-        persegiPanjang pp1 = new persegiPanjang();
+        PersegiPanjang pp1 = new PersegiPanjang();
         pp1.panjang = 10;
         pp1.lebar = 5;
 

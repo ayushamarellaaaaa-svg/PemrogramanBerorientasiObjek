@@ -1,6 +1,6 @@
 package Teori_2;
 
-public class handphone {
+public class Handphone {
     public String merk;
     public String tipe;
     public int kapasitasBaterai;

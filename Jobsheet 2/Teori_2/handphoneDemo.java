@@ -1,20 +1,20 @@
 package Teori_2;
 
-public class handphoneDemo {
+public class HandphoneDemo {
     public static void main(String[] args) {
-        handphone hp1 = new handphone();
+        Handphone hp1 = new Handphone();
         hp1.merk = "Samsung";
         hp1.tipe = "Galaxy S21";
         hp1.kapasitasBaterai = 15000;
         hp1.kapasitasPenyimpanan = 128;
         
-        handphone hp2 = new handphone();
+        Handphone hp2 = new Handphone();
         hp2.merk = "Apple";
         hp2.tipe = "iPhone 13";
         hp2.kapasitasBaterai = 20000;
         hp2.kapasitasPenyimpanan = 256;
 
-        handphone hp3 = new handphone();
+        Handphone hp3 = new Handphone();
         hp3.merk = "Xiaomi";
         hp3.tipe = "Redmi Note 10";
         hp3.kapasitasBaterai = 30000;
