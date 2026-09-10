@@ -1,4 +1,4 @@
-package teori;
+package Teori_1;
 
 public class film_struktural {
     public static void main(String[] args) {
