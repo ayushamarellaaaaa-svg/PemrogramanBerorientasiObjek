@@ -7,5 +7,10 @@ public class PersegiPanjangDemo {
         pp1.displayInfo();
         System.out.println("Luas     : " + pp1.getLuas());
         System.out.println("Keliling : " + pp1.getKeliling());
+
+        PersegiPanjang pp2 = new PersegiPanjang();
+        pp2.panjang = 20;
+        pp2.lebar = 10;
+        pp2.displayInfo();
     }
 }
